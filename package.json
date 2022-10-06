@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/HackerUSA-CE/CS-Mock-Hash-1/issues"
   },
-  "homepage": "https://github.com/HackerUSA-CE/CS-Mock-Hash-1#readme"
+  "homepage": "https://github.com/HackerUSA-CE/CS-Mock-Hash-1#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "readline-sync": "^1.4.10"
+  }
 }
